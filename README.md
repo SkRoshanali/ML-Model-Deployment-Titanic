@@ -78,3 +78,5 @@ python -m src.client
 - [ ] Public GitHub repository with all required files
 
 Do not commit secrets, tokens, or passwords.
+<img width="1127" height="510" alt="image" src="https://github.com/user-attachments/assets/4c39ae83-7e89-45a9-a27f-0629226a1160" />
+<img width="1127" height="510" alt="image" src="https://github.com/user-attachments/assets/8fcf85d1-8346-48c7-a665-3d55ef358e58" />
